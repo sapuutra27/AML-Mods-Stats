@@ -1,6 +1,6 @@
 {
   "enabled": true,
   "min_build": 0,
-  "blocked_builds": [],
+  "blocked_builds": [1],
   "message": "Download from official link!"
 }
